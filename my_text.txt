@@ -1,0 +1,11 @@
+echo "# My_work" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ovi0184/My_work.git
+git push -u origin main
+
+git remote add origin https://github.com/ovi0184/My_work.git
+git branch -M main
+git push -u origin main
